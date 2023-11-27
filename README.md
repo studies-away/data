@@ -1,2 +1,1 @@
-sentence = "Hello, Ruby!"
-puts sentence.downcase.reverse
+String Manipulation
